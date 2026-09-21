@@ -55137,5 +55137,12 @@
     "author": "Nico Blum",
     "description": "Adds \"Export to Textile\" to the file context menu, copying the note as Textile markup. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nblum/obsidian-textile-export"
+  },
+  {
+    "id": "ez-reader",
+    "name": "EzReader",
+    "author": "alei37",
+    "description": "Read local ebooks with progress, bookmarks, excerpts, and research notes, with optional online translation.",
+    "repo": "alei37/ez-reader"
   }
 ]
